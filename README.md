@@ -10,7 +10,6 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech Computer Science, JIS College of Engineering — Class of 2027 (CGPA 8.5)
-- 🔭 Currently building **Connectly**, a microservices-based real-time chat application
 - 🌱 Actively strengthening my backend fundamentals: distributed systems, caching, message queues, and CI/CD
 - 🏆 Hackathon team lead | Contributor at GirlScript Summer of Code, JWOC, and Nexus Spring of Code
 - 💼 Looking for **SWE Internship 2027** opportunities at product-based companies
